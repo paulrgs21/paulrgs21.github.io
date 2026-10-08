@@ -9,3 +9,5 @@ location: "Paris, France"
 ---
 
 Oral presentation of work carried out during my master's internship at Inria Rennes, with Titouan Vayer and Franck Picard.
+
+[Event page](https://gdr-iasis.cnrs.fr/reunions/self-supervised-visual-learning-methods-applications-and-challenges-2/)
