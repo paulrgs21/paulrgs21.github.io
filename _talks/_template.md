@@ -8,6 +8,7 @@ permalink: /talks/YYYY-MM-DD-short-title
 venue: "Conference / seminar name"
 date: 2026-01-01
 location: "City, Country"
+link: "https://…"   # optional: clicking the title opens this page (e.g. the event page)
 ---
 
 Short description, with a link to the slides if any.

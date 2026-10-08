@@ -11,10 +11,6 @@ redirect_from:
 
 [Download my CV (PDF)]({{ base_path }}/files/cv.pdf)
 
-Research interests
-======
-Self-supervised learning, representation learning, neural collapse.
-
 Education
 ======
 * **PhD in Machine Learning**, Inria, Rennes, 2026 – 2029
