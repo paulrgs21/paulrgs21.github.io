@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in machine learning at Inria in Rennes, supervised by Titouan Vayer (Inria) and Franck Picard (CNRS, ENS de Lyon). My thesis is entitled *Distributional Perspective of Self-Supervised Learning*.
+I am a first-year PhD student in machine learning at [Inria](https://www.inria.fr/en) in Rennes ([COMPACT team](https://team.inria.fr/compact/)), supervised by [Titouan Vayer](https://tvayer.github.io/) (Inria) and [Franck Picard](https://franckpicard.github.io/) (CNRS, ENS de Lyon). My thesis is entitled *Distributional Perspective of Self-Supervised Learning*.
 
-Before my PhD, I studied at ENS Paris-Saclay, where I completed the MVA master's program (Mathematics, Vision, Learning), after a Master 1 in mathematics and statistics at Université Paris Dauphine-PSL. During my MVA internship at Inria (2026), I studied dimensional collapse in self-supervised learning, using Maximum Mean Discrepancy (MMD) as a regularization term.
+Before my PhD, I studied at ENS Paris-Saclay, where I completed the [MVA](https://www.master-mva.com/) master's program (Mathematics, Vision, Learning), after a Master 1 in mathematics and statistics at Université Paris Dauphine-PSL. During my MVA internship at Inria (2026), I studied dimensional collapse in self-supervised learning, using Maximum Mean Discrepancy (MMD) as a regularization term.
 
 Research interests
 ------
